@@ -8,6 +8,7 @@ def total_sales(data):
 def average_sales(data):
     return sum(data) / len(data)
 
+
 print(f"Sales data for the week: {sales_data}")
 print(f"Total sales: {total_sales(sales_data)}")
 print(f"Average sales: {average_sales(sales_data):.2f}")
