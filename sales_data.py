@@ -1,5 +1,6 @@
 # sales_data.py
 
+# Weekly sales data: [Monday, Thusday, Wednesday, Thursday, Friday, Saturday, Sunday]
 sales_data = [230, 200, 310, 290, 400, 150, 180]
 
 def total_sales(data):
